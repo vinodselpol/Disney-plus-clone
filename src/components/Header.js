@@ -133,7 +133,8 @@ const Logo = styled.a`
 `;
 
 const NavMenu = styled.div`
-  align-items: center;
+ cursor:pointer;
+ align-items: center;
   display: flex;
   flex-flow: row nowrap;
   height: 100%;
